@@ -1,0 +1,61 @@
+{
+  "ak47": {
+    "dikey": 2.45,
+    "yatay": 1.85,
+    "ilk5_mermi_carpan": 1.25
+  },
+  "mp5": {
+    "dikey": 1.7,
+    "yatay": 1.8,
+    "ilk5_mermi_carpan": 1.2
+  },
+  "thompson": {
+    "dikey": 1.65,
+    "yatay": 1.7,
+    "ilk5_mermi_carpan": 1.15
+  },
+  "hmlmg": {
+    "dikey": 1.2,
+    "yatay": 0.6,
+    "ilk5_mermi_carpan": 1.4
+  },
+  "lr300": {
+    "dikey": 1.75,
+    "yatay": 1.55,
+    "ilk5_mermi_carpan": 1.2
+  },
+  "custom_smg": {
+    "dikey": 1.5,
+    "yatay": 1.5,
+    "ilk5_mermi_carpan": 1.1
+  },
+  "sar": {
+    "dikey": 1.6,
+    "yatay": 1.4,
+    "ilk5_mermi_carpan": 1.0
+  },
+  "m249": {
+    "dikey": 1.7,
+    "yatay": 1.5,
+    "ilk5_mermi_carpan": 1.5
+  },
+  "m39": {
+    "dikey": 1.6,
+    "yatay": 1.4,
+    "ilk5_mermi_carpan": 1.2
+  },
+  "tetik_modu": 0,
+  "gamma_seviyesi": 1.8,
+  "mini_hud": false,
+  "menu_tusu": "HOME",
+  "fast_loot": false,
+  "fast_med": false,
+  "med_tusu": "V",
+  "med_slotu": 5,
+  "loot_tusu": "X",
+  "trigger_etkin": false,
+  "trigger_sensitivity": 35,
+  "hassasiyet": 1.0,
+  "gorus_acisi": 90.0,
+  "adim_ms": 22
+}
